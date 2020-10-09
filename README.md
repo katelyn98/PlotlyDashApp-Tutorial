@@ -7,7 +7,7 @@ Tutorial used for Plotly Dash App Workshop at WiCS Club Meeting
 
 ## Tutorial 
 
-Step-by-step slides cane be found [here](https://tinyurl.com/stepbystepcode)
+Step-by-step slides can be found [here](https://tinyurl.com/stepbystepcode)
 
 The tutorial covers two different plotly express figures: scatter_geo and filled area chart with range slider. The two figures are then used to create a simply Plotly Dash App. 
 
