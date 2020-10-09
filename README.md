@@ -2,7 +2,7 @@
 Tutorial used for Plotly Dash App Workshop at WiCS Club Meeting
 
 <p align="center">
-  <img src="https://github.com/katelyn98/PlotlyDashApp-Tutorial/PlotlyTutorial.gif" /> 
+  <img src="https://github.com/katelyn98/PlotlyDashApp-Tutorial/blob/main/PlotlyTutorial.gif" /> 
 </p>
 
 ## Tutorial 
