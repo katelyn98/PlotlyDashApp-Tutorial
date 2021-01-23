@@ -16,3 +16,6 @@ Data for this tutorial is in the simplemap_data folder.
 
 ## More Resources
 Visit [Plotly's Documentation](https://plotly.com/python/plotly-express/) to view all the features Plotly has to offer. Visit their [Dash app document](https://dash.plotly.com) to view more on how to customize your dash app. To host your dash app for free, read up on Dash deployment [here](https://dash.plotly.com/deployment).
+
+## Contact & Pull Requests
+Please submit a pull request if you encounter any errors or email me with any questions you may have! 
